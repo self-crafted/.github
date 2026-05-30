@@ -8,6 +8,6 @@ This is the place to develop parts for my private minecraft network.
 | [Spleef minigame](https://github.com/self-crafted/minestom-spleef) | [![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/self-crafted/minestom-spleef?style=flat-square)](https://github.com/self-crafted/minestom-spleef/releases/latest) | ![GitHub Repo stars](https://img.shields.io/github/stars/self-crafted/minestom-spleef?style=flat-square) ![GitHub forks](https://img.shields.io/github/forks/self-crafted/minestom-spleef?style=flat-square) |
 
 
-| Plugins | | |
-| --- | --- | --- |
-| [velocity-whitelist](https://github.com/self-crafted/velocity-whitelist) | [![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/self-crafted/velocity-whitelist?style=flat-square)](https://github.com/self-crafted/velocity-whitelist/releases/latest) | ![GitHub Repo stars](https://img.shields.io/github/stars/self-crafted/velocity-whitelist?style=flat-square) ![GitHub forks](https://img.shields.io/github/forks/self-crafted/velocity-whitelist?style=flat-square) |
+| Plugins | | | |
+| --- | --- | --- | --- |
+| [velocity-allowlist](https://github.com/self-crafted/velocity-allowlist) | [![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/self-crafted/velocity-allowlist?style=flat-square)](https://github.com/self-crafted/velocity-allowlist/releases/latest) | ![GitHub Repo stars](https://img.shields.io/github/stars/self-crafted/velocity-allowlist?style=flat-square) ![GitHub forks](https://img.shields.io/github/forks/self-crafted/velocity-allowlist?style=flat-square) | [Modrinth](https://modrinth.com/plugin/velocity-allowlist) |
