@@ -15,3 +15,4 @@ This is the place to develop parts for my private minecraft network.
 | awesome lists | |
 | --- | --- |
 | [Minestom](https://github.com/self-crafted/awesome-minestom) | ![GitHub Repo stars](https://img.shields.io/github/stars/self-crafted/awesome-minestom?style=flat-square) ![GitHub forks](https://img.shields.io/github/forks/self-crafted/awesome-minestom?style=flat-square) |
+| [Minecraft self-hosting](https://github.com/self-crafted/awesome-minecraft-selfhosting) |  
